@@ -1,0 +1,1 @@
+current = e.get()
